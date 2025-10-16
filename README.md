@@ -18,19 +18,19 @@ Este portafolio es el resultado de mi aprendizaje en el **Módulo 10: Portafolio
 
 ## 📂 Proyectos Destacados
 
-### 📊 [Proyecto 1: Análisis Avanzado de Ventas](https://github.com/ediebyb/proyecto-1)
+### 📊 [Proyecto 1: Análisis Avanzado de Ventas](https://github.com/ediebyb/proyecto1)
 Análisis de ventas con limpieza avanzada, procesamiento en chunks (simulando entornos distribuidos) y visualización con heatmap.  
 **Tecnologías**: Python, pandas, numpy, matplotlib, seaborn.
 
-### 🗃️ [Proyecto 2: Bases de Datos con Integración](https://github.com/ediebyb/proyecto-2)
+### 🗃️ [Proyecto 2: Bases de Datos con Integración](https://github.com/ediebyb/proyecto2)
 Creación de una BD SQLite con integración de datos desde CSV, modelamiento relacional y consultas complejas con JOIN.  
 **Tecnologías**: Python, sqlite3, pandas.
 
-### 🤖 [Proyecto 3: Modelo de Machine Learning Optimizado](https://github.com/ediebyb/proyecto-3)
+### 🤖 [Proyecto 3: Modelo de Machine Learning Optimizado](https://github.com/ediebyb/proyecto3)
 Clasificación del dataset Iris con tuning de hiperparámetros (`GridSearchCV`) y evaluación detallada.  
 **Tecnologías**: Python, scikit-learn.
 
-### ☁️ [Proyecto 4: Simulación de Integración en Cloud](https://github.com/ediebyb/proyecto-cloud)
+### ☁️ [Proyecto 4: Simulación de Integración en Cloud](https://github.com/ediebyb/proyecto4)
 Simulación de un bucket de AWS S3 para almacenamiento e integración de datos, preparando el terreno para arquitecturas cloud reales.  
 **Tecnologías**: Python, pandas, os.
 
@@ -44,7 +44,7 @@ Creo firmemente en la **calidad sobre la cantidad**. Cada proyecto en este porta
 
 ## 📬 Contacto
 
-- **Email**: [tedilio.beas@gmail.com](mailto:tedilio.beas@gmail.com)
+- **Email**: [tedilio.beas@gmail.com](mailto:edilio.beas@gmail.com)
 - **GitHub**: [github.com/ediebyb](https://github.com/ediebyb)
 - **Portafolio Web**: [https://ediebyb.github.io](https://ediebyb.github.io)
 
